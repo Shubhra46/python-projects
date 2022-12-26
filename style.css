@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(238, 232, 225);
+}
+.main{
+    background-color:aliceblue;
+    margin:10px;
+    padding: 15px;
+}
+.extra{
+    background-color: rgb(218, 243, 231);
+    margin:10px;
+    padding: 15px;
+}
+#heading{
+    font-size: 25px;
+    width:50%;
+}
+.line{
+    width: 250px;
+    border: 2px solid black;
+    background-color: black;
+}
+.item{
+    background-color: rgb(150, 179, 233);
+    width:70%;
+    margin:5px;
+    padding: 5px;
+}
+.item a{
+    color:brown !important;
+    font-size: 18px;
+}
+#note{
+    float:right;
+    font-size: 15px;
+    color: red;
+    font-weight: 400;
+}
+.item2{
+    background-color: rgb(165, 220, 239);
+    width:70%;
+    margin:5px;
+    padding: 5px;
+}
+.item2 a{
+    color:brown !important;
+    font-size: 18px;
+}
